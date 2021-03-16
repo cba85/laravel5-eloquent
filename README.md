@@ -1,5 +1,7 @@
 # Laravel Eloquent
 
+> For demonstration purpose only
+
 ## Etapes
 
 ### 1. Insert
